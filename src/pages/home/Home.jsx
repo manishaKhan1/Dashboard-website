@@ -17,7 +17,7 @@ const Home = () => {
         <div>
           <h3 style={{ textAlign: "left" }}><b>Dashboard</b></h3>
           <h3 style={{ textAlign: "right", fontSize: "15px" }}>
-            Home/<span style={{ color: "#7451f8" }}>Dashboard</span>
+            Home/<span style={{ color: "#7451f8" }}>Dashboard website</span>
           </h3>
         </div>
 
